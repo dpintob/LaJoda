@@ -1,0 +1,24 @@
+{
+  "name": "lajoda",
+  "version": "1.0.0",
+  "description": "lajoda-producciones",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpintob/LaJoda.git"
+  },
+  "author": "diegopinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpintob/LaJoda/issues"
+  },
+  "homepage": "https://github.com/dpintob/LaJoda#readme"
+}
